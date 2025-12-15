@@ -28,7 +28,7 @@ This project focuses on analyzing and optimizing load carriage systems using dat
 - Applying algorithms
 - Training and testing the dataset
 
-## 📄 Report
+## Report
 Project report is available in the `report/` folder.
 
 ## Academic Info
